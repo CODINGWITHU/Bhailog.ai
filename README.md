@@ -30,7 +30,12 @@ Bhailog AI changes the game by:
 We're building Bhailog AI because we believe:
 - AI should sound like your best friend  
 - Humor is a superpower  
-- India deserves its own digital bhai who talks the way we do  
+- India deserves its own digital bhai who talks the way we do
+
+##Follow us on ig
+@bhailog.ai
+https://www.instagram.com/bhailog.ai
+
 
 This is not just code — it's emotion + language + culture, blended into bytes.
 
